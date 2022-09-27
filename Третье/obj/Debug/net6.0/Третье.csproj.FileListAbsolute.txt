@@ -1,0 +1,15 @@
+C:\Users\zimzu\OneDrive\Рабочий стол\дз 7\Третье\bin\Debug\net6.0\Третье.exe
+C:\Users\zimzu\OneDrive\Рабочий стол\дз 7\Третье\bin\Debug\net6.0\Третье.deps.json
+C:\Users\zimzu\OneDrive\Рабочий стол\дз 7\Третье\bin\Debug\net6.0\Третье.runtimeconfig.json
+C:\Users\zimzu\OneDrive\Рабочий стол\дз 7\Третье\bin\Debug\net6.0\Третье.dll
+C:\Users\zimzu\OneDrive\Рабочий стол\дз 7\Третье\bin\Debug\net6.0\ref\Третье.dll
+C:\Users\zimzu\OneDrive\Рабочий стол\дз 7\Третье\bin\Debug\net6.0\Третье.pdb
+C:\Users\zimzu\OneDrive\Рабочий стол\дз 7\Третье\obj\Debug\net6.0\Третье.csproj.AssemblyReference.cache
+C:\Users\zimzu\OneDrive\Рабочий стол\дз 7\Третье\obj\Debug\net6.0\Третье.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zimzu\OneDrive\Рабочий стол\дз 7\Третье\obj\Debug\net6.0\Третье.AssemblyInfoInputs.cache
+C:\Users\zimzu\OneDrive\Рабочий стол\дз 7\Третье\obj\Debug\net6.0\Третье.AssemblyInfo.cs
+C:\Users\zimzu\OneDrive\Рабочий стол\дз 7\Третье\obj\Debug\net6.0\Третье.csproj.CoreCompileInputs.cache
+C:\Users\zimzu\OneDrive\Рабочий стол\дз 7\Третье\obj\Debug\net6.0\Третье.dll
+C:\Users\zimzu\OneDrive\Рабочий стол\дз 7\Третье\obj\Debug\net6.0\ref\Третье.dll
+C:\Users\zimzu\OneDrive\Рабочий стол\дз 7\Третье\obj\Debug\net6.0\Третье.pdb
+C:\Users\zimzu\OneDrive\Рабочий стол\дз 7\Третье\obj\Debug\net6.0\Третье.genruntimeconfig.cache
